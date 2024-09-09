@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/NicoValenciano/HomeExpert/issues"
   },
-  "homepage": "https://github.com/NicoValenciano/HomeExpert#readme"
+  "homepage": "https://github.com/NicoValenciano/HomeExpert#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^3.21.2"
+  }
 }
