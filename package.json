@@ -1,0 +1,19 @@
+{
+  "name": "homeexpert",
+  "version": "1.0.0",
+  "description": "Aplicacion de servicios para el hogar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoValenciano/HomeExpert.git"
+  },
+  "author": "Camila Piergentili, Lucila Murano, Bruno Dahua, Jonatan Diaz y Nicolas Valenciano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoValenciano/HomeExpert/issues"
+  },
+  "homepage": "https://github.com/NicoValenciano/HomeExpert#readme"
+}
